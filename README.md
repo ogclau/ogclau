@@ -12,4 +12,4 @@ Desarrollador y apasionado de la informática
 Mejorar mis habilidades en desarrollo backend...
 Explorar más sobre el desarrollo de aplicaciones móviles y administración de redes.
 ## 📬 Conéctemos:
-[LinkedIn](enlace a tu LinkedIn)
+**LinkedIn** ((https://www.linkedin.com/in/claudia-ortega-guzm%C3%A1n-192b2133a/))
