@@ -13,3 +13,4 @@ Estudiante y apasionada de la informática
 Mejorar mis habilidades en desarrollo backend...
 Explorar más sobre el desarrollo de aplicaciones móviles y administración de redes.
 
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29xenc4dzM4djZ2Ymg5YWNkcDkxdjlsbGVkaWo3NGdueG92OGQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3w4D1hjeRDMI/giphy.webp
