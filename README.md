@@ -9,10 +9,13 @@ Estudiante y apasionada de la informática
 * Desarrollo de aplicaciones web y móviles
 * Ciberseguridad y redes
 
+
+![linux-computer](https://github.com/user-attachments/assets/146a572c-a5e8-41c5-befa-0a38c1552972)
+
 ## 🌱 Objetivos de crecimiento:
 Mejorar mis habilidades en desarrollo backend...
 Explorar más sobre el desarrollo de aplicaciones móviles y administración de redes.
 
-![linux-computer](https://github.com/user-attachments/assets/146a572c-a5e8-41c5-befa-0a38c1552972)
+
 
 
