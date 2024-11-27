@@ -15,3 +15,4 @@ Explorar más sobre el desarrollo de aplicaciones móviles y administración de 
 
 
 ![linux-computer](https://github.com/user-attachments/assets/a3a4577b-d0a8-467b-af13-fee2a67bbc34)
+![Uploading code-coding.gif…]()
