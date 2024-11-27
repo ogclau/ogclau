@@ -12,4 +12,5 @@ Estudiante y apasionada de la informática
 ## 🌱 Objetivos de crecimiento:
 Mejorar mis habilidades en desarrollo backend...
 Explorar más sobre el desarrollo de aplicaciones móviles y administración de redes.
+
 ![mr24hrs-acura](https://github.com/user-attachments/assets/5138ce02-12b5-4779-8272-c9f7112f96e5)
