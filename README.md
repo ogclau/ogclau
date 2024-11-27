@@ -13,5 +13,6 @@ Estudiante y apasionada de la informática
 Mejorar mis habilidades en desarrollo backend...
 Explorar más sobre el desarrollo de aplicaciones móviles y administración de redes.
 
-![code-coding](https://github.com/user-attachments/assets/5e566130-64d8-4c6e-ad3f-cf6a1f4ad961)
+![linux-computer](https://github.com/user-attachments/assets/146a572c-a5e8-41c5-befa-0a38c1552972)
+
 
