@@ -1,5 +1,6 @@
 # ¡Hola! 👋 Soy Claudia
 Estudiante y apasionada de la informática (2GM)
+<br>
 ¡Bienvenido a mi perfil de GitHub! Me apasiona crear herramientas que mejoren la vida cotidiana y enfrentar desafíos técnicos con creatividad y persistencia.
 
 ## 📚 Proyectos en proceso:
