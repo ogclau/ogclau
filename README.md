@@ -12,8 +12,9 @@ Estudiante y apasionada de la informática
 
 ![linux-computer](https://github.com/user-attachments/assets/146a572c-a5e8-41c5-befa-0a38c1552972)
 <!-- ![rx7-my-beloved](https://github.com/user-attachments/assets/3a54d229-a5bc-4624-a17e-36ef342971ac)
-![type7-911turbo](https://github.com/user-attachments/assets/77227f93-f1dc-4376-984a-7d5c3e3dc3f2) -->
-![forza-horizon-5-mazda-rx-7](https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d)
+![type7-911turbo](https://github.com/user-attachments/assets/77227f93-f1dc-4376-984a-7d5c3e3dc3f2) 
+![forza-horizon-5-mazda-rx-7](https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d) -->
+![lando3-lando3official](https://github.com/user-attachments/assets/4e8b5341-f643-4e9c-a989-58478e7b45bd)
 
 
 
