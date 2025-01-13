@@ -11,6 +11,8 @@ Estudiante y apasionada de la informática
 
 
 ![linux-computer](https://github.com/user-attachments/assets/146a572c-a5e8-41c5-befa-0a38c1552972)
+![rx7-my-beloved](https://github.com/user-attachments/assets/3a54d229-a5bc-4624-a17e-36ef342971ac)
+
 
 
 
