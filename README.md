@@ -14,7 +14,7 @@ Estudiante y apasionada de la informática
 <!-- ![rx7-my-beloved](https://github.com/user-attachments/assets/3a54d229-a5bc-4624-a17e-36ef342971ac)
 ![type7-911turbo](https://github.com/user-attachments/assets/77227f93-f1dc-4376-984a-7d5c3e3dc3f2) 
 ![forza-horizon-5-mazda-rx-7](https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d) -->
-https://tenor.com/es/view/lando3-lando3official-rotary-wankel-engine-gif-16654075
+
 
 
 
