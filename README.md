@@ -5,6 +5,13 @@ Estudiante y apasionada de la informática (2GM)
 
 ## 📚 Proyectos en proceso:
 * Página Web personal: Pagina web enfocada a portfolio personal, que incluye mis proyectos más recientes.
+<br>
+##Habilidades 🥇
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,css,html,js,figma,linux,nodejs,powershell,vscode," />
+  </a>
+</p>
 
 ## 🎯 Intereses:
 * Desarrollo de aplicaciones web y móviles
