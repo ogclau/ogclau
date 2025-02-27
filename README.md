@@ -8,7 +8,7 @@ Estudiante y apasionada de la informática (2GM)
 <br>
 ## 🥇 Habilidades
 <br>
-<p align="center">
+* <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,css,html,js,figma,linux,nodejs,powershell,vscode," />
   </a>
