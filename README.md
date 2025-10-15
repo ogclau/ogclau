@@ -1,11 +1,5 @@
 # ¡Hola! 👋 Soy Claudia
-Estudiante y apasionada de la informática (1CFGS)
-<br>
-¡Bienvenido a mi perfil de GitHub! Me apasiona crear herramientas que mejoren la vida cotidiana y enfrentar desafíos técnicos con creatividad y persistencia.
 
-## 📚 Proyectos en proceso:
-* Página Web personal: Pagina web enfocada a portfolio personal, que incluye mis proyectos más recientes.
-<br>
 <h2>🥇 Habilidades</h2>
 <br>
 <p align="center">
