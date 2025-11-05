@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea&theme=light"/>
-      [![My Skills](https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea&theme=light)](https://skillicons.dev)
   </a>
 </p>
 
