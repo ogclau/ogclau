@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Claudia
+# ¡Hola! 🫂 Soy Claudia
 
 ---
 
@@ -10,13 +10,19 @@
 
 ---
 
-## 🥇 Habilidades Técnicas
+## 🥇 Habilidades 
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py&theme=light"/>
   </a>
 </p>
+
+---
+## 🎯 Intereses
+
+- 💻 Desarrollo de aplicaciones web y móviles  
+- 🔐 Ciberseguridad    
 
 ---
 
@@ -29,17 +35,6 @@
 </p>
 
 ---
-
-## 🎯 Intereses
-
-- 💻 Desarrollo de aplicaciones web y móviles  
-- 🔐 Ciberseguridad y redes  
-- 🧩 Automatización y scripting  
-- 🚀 Contenedores y DevOps  
-
----
-
-## 🏆 Badges y Reconocimientos
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ogclau?label=Seguidores&style=social" />
