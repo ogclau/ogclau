@@ -1,5 +1,5 @@
 # ¡Hola! 🫂 Soy Claudia
-![forza-horizon-5-mazda-rx-7](https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d)
+!([https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzV1N3ZpeGFxMTIxNmVxZ3psY2JqajdxY2hheXQ1OWJxb3A5c3c5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UlCqHytpeelTbyf12u/giphy.gif))
 ---
 
 ## 🧠 Sobre mí
