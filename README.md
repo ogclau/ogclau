@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ogclau&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ogclau&theme=radical"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
