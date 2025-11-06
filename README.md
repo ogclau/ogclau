@@ -27,7 +27,7 @@ Soy una entusiasta del desarrollo web y móvil, apasionada por la ciberseguridad
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogclau&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ogclau&theme=radical" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
