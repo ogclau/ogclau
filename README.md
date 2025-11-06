@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Claudia
 
-Soy una entusiasta del desarrollo web y móvil, apasionada por la ciberseguridad y las redes. Me encanta aprender, crear y compartir proyectos que combinan diseño, funcionalidad y seguridad.
-
 ---
 
 ## 🧠 Sobre mí
