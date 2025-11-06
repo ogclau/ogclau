@@ -2,7 +2,7 @@
 ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzloZzV3anIyYzl3amkxZ2NtZXdlNmJudmIxcG90aDltNnJ0b3RuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iyafue0lZyHxY7S/giphy.gif)
 
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzloZzV3anIyYzl3amkxZ2NtZXdlNmJudmIxcG90aDltNnJ0b3RuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iyafue0lZyHxY7S/giphy.gif]" alt="GIF divertido" />
+  <img src="https://media2.giphy.com/media/l0Iyafue0lZyHxY7S/giphy.gif" alt="GIF divertido" />
 </p>
 
 
