@@ -1,5 +1,5 @@
 # ¡Hola! 🫂 Soy Claudia
-
+[forza-horizon-5-mazda-rx-7](https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d)
 ---
 
 ## 🧠 Sobre mí
@@ -24,8 +24,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
