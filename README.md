@@ -8,8 +8,6 @@
 - 🛠️ Me gusta construir soluciones creativas con herramientas modernas  
 - 🌐 Explorando el mundo del código abierto y contribuyendo a proyectos colaborativos  
 
----
-
 ## 🥇 Habilidades 
 
 <p align="center">
@@ -18,13 +16,10 @@
   </a>
 </p>
 
----
 ## 🎯 Intereses
 
 - 💻 Desarrollo de aplicaciones web y móviles  
 - 🔐 Ciberseguridad    
-
----
 
 ## 📊 GitHub Stats
 
@@ -34,7 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ogclau?label=Seguidores&style=social" />
