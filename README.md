@@ -1,9 +1,5 @@
 # ¡Hola! 🫂 Soy Claudia
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/l0Iyafue0lZyHxY7S/giphy.gif" alt="GIF divertido" />
-</p>
-
 
 ---
 
@@ -42,7 +38,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/l0Iyafue0lZyHxY7S/giphy.gif" alt="GIF divertido" />
+</p>
 
 
 
