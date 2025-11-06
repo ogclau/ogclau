@@ -37,10 +37,10 @@
   <img src="https://komarev.com/ghpvc/?username=ogclau&label=Profile%20views&color=blue&style=flat" />
 </p>
 
-
+<!--
 <p align="center">
   <img src="https://media2.giphy.com/media/l0Iyafue0lZyHxY7S/giphy.gif" alt="GIF divertido" />
-</p>
+</p>-->
 
 
 
