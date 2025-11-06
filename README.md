@@ -1,5 +1,6 @@
 # ¡Hola! 🫂 Soy Claudia
-![Funny GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm80OGg1OGpkcmM1aHZ0YnQycjhibHVvN3E5bzV3aGhkNXUyMDBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zKbUtzLYTrFyXWeaHv/giphy.gif)
+![GIF](https://media.giphy.com/media/zKbUtzLYTrFyXWeaHv/giphy.gif)
+
 
 ---
 
