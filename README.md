@@ -46,9 +46,9 @@ Soy una entusiasta del desarrollo web y móvil, apasionada por la ciberseguridad
 ## 🏆 Badges y Reconocimientos
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/claudia-username?label=Seguidores&style=social" />
-  <img src="https://img.shields.io/github/stars/claudia-username?label=Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=claudia-username&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/ogclau?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/stars/ogclau?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=ogclau&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 
