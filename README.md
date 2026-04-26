@@ -1,9 +1,6 @@
 <!-- ████████████████████████████████████████████████████████ -->
 <!--  TRACE INITIATED — claudia@0x_portfolio                  -->
 <!-- ████████████████████████████████████████████████████████ -->
-<img src="neofetch_avatar_claudia.svg" width="150" />
-
-<div align="center">
 
 ```
   ██████╗ ██╗  ██╗ ██████╗██╗      █████╗ ██╗   ██╗██████╗ ██╗ █████╗
@@ -19,7 +16,10 @@
 </div>
 
 ---
-
+<div align="center">
+<img src="neofetch_avatar_claudia.svg" width="500" />
+</div>
+<div align="center">
 <div align="center">
 
 ```bash
