@@ -1,70 +1,127 @@
-# ¡Hola! 🫂 Soy Claudia
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  TRACE INITIATED — claudia@0x_portfolio                  -->
+<!-- ████████████████████████████████████████████████████████ -->
 
+<div align="center">
+
+```
+  ██████╗ ██╗  ██╗ ██████╗██╗      █████╗ ██╗   ██╗██████╗ ██╗ █████╗
+ ██╔═████╗╚██╗██╔╝██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██║██╔══██╗
+ ██║██╔██║ ╚███╔╝██║      ██║     ███████║██║   ██║██║  ██║██║███████║
+ ████╔╝██║ ██╔██╗ ██║     ██║     ██╔══██║██║   ██║██║  ██║██║██╔══██║
+ ╚██████╔╝██╔╝ ██╗╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝██║██║  ██║
+  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=security+researcher+in+training...;full-stack+developer;breaking+things+to+build+better+ones;chmod+%2B+x+claudia.sh+%26%26+.%2Fclaudia.sh)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧠 Sobre mí
+<div align="center">
 
-- 🎓 Estudiante de tecnología con enfoque en desarrollo full-stack y seguridad informática  
-- 🛠️ Me gusta construir soluciones creativas con herramientas modernas  
-- 🌐 Explorando el mundo del código abierto y contribuyendo a proyectos colaborativos  
+```bash
+┌──(0xClaudia㉿matrix)-[~]
+└─$ whoami
+```
 
-## 🥇 Habilidades 
+</div>
+
+```
+> identity   : Claudia Ortega
+> role        : Security-focused Full-Stack Developer
+> status      : [ACTIVE] — building, breaking & learning
+> location    : /dev/null  (trace wiped)
+> clearance   : student → operator
+```
+
+---
+
+<div align="center">
+
+```bash
+┌──(0xClaudia㉿matrix)-[~]
+└─$ cat /etc/skills.conf
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py&theme=dark"/>
+
+</div>
+
+```
+[languages]     Python · JavaScript · Java · Bash · HTML · CSS
+[frameworks]    Node.js · Docker
+[tools]         Figma · VSCode · IntelliJ IDEA · PowerShell
+[security]      Linux · Network analysis · OWASP · recon tools
+[design]        Adobe Illustrator · UI/UX prototyping
+```
+
+---
+
+<div align="center">
+
+```bash
+┌──(0xClaudia㉿matrix)-[~]
+└─$ cat objectives.txt
+```
+
+</div>
+
+```
+[01] — Web & mobile application development
+[02] — Cybersecurity: offensive & defensive
+[03] — Open source contribution
+[04] — CTF challenges & security research
+[05] — Building tools that matter
+```
+
+---
+
+<div align="center">
+
+```bash
+┌──(0xClaudia㉿matrix)-[~/stats]
+└─$ ./fetch_metrics.sh --user ogclau
+```
+
+</div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py&theme=light"/>
-  </a>
-</p>
-
-## 🎯 Intereses
-
-- 💻 Desarrollo de aplicaciones web y móviles  
-- 🔐 Ciberseguridad    
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&layout=compact&theme=tokyonight" alt="Top Languages"/>-->
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&stats_format=bytes&theme=tokyonight"/>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false&layout=compact" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false" alt="GitHub Stats"/>
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ogclau?label=Seguidores&style=social" />
-  <img src="https://img.shields.io/github/stars/ogclau?label=Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=ogclau&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogclau&theme=tokyonight&border=00ff9f&background=0d0d1a&ring=7c6aff&fire=ff6b9d&currStreakLabel=00ff9f" alt="Streak Stats"/>
 </p>
 
-<!--
 <p align="center">
-  <img src="https://media2.giphy.com/media/l0Iyafue0lZyHxY7S/giphy.gif" alt="GIF divertido" />
-</p>-->
-
-
-
-<!--# ¡Hola! 👋 Soy Claudia
-
-<h2>🥇 Habilidades</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py&theme=light"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/ogclau?label=followers&style=flat-square&color=00ff9f&labelColor=0d0d1a&logo=github" />
+  <img src="https://img.shields.io/github/stars/ogclau?label=stars&style=flat-square&color=7c6aff&labelColor=0d0d1a&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=ogclau&label=profile+views&color=ff6b9d&style=flat-square" />
 </p>
 
-## 🎯 Intereses:
-* Desarrollo de aplicaciones web y móviles
-* Ciberseguridad y redes
+---
 
+<div align="center">
 
-![linux-computer](https://github.com/user-attachments/assets/146a572c-a5e8-41c5-befa-0a38c1552972) <!-- ![tumblr_mfcbj4x0tq1rgbdxqo1_250](https://github.com/user-attachments/assets/0377f03f-fe15-42cd-af31-1cb83f9600c6) -->
+```
+┌──(0xClaudia㉿matrix)-[~]
+└─$ exit
 
-<!-- ![rx7-my-beloved](https://github.com/user-attachments/assets/3a54d229-a5bc-4624-a17e-36ef342971ac)
-![type7-911turbo](https://github.com/user-attachments/assets/77227f93-f1dc-4376-984a-7d5c3e3dc3f2) 
-![forza-horizon-5-mazda-rx-7](https://github.com/user-attachments/assets/7f2720da-865f-4627-a035-be5707f92b8d) -->
+[session terminated]
+[logs encrypted & deleted]
+[no trace found]
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%  done.
+```
+
+</div>
+
+<!-- EOF — 0xC10RT3G4 -->
