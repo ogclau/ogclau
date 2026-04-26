@@ -15,7 +15,6 @@
 
 </div>
 
----
 <!-- <div align="center"> -->
 <!-- <img src="neofetch_avatar_claudia.svg" width="900" /> -->
 <!-- </div> -->
