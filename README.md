@@ -56,7 +56,7 @@
 
 </div>
 
-```
+```bash
 [languages]     Python · JavaScript · Java · Bash · HTML · CSS
 [frameworks]    Node.js · Docker
 [tools]         Figma · VSCode · IntelliJ IDEA · PowerShell
