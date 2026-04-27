@@ -30,7 +30,7 @@
 </div>
 
 ```
-> identity   : Claudia Ortega
+> identity    : Claudia Ortega
 > role        : Security-focused Full-Stack Developer
 > status      : [ACTIVE] — building, breaking & learning
 > location    : /dev/null  (trace wiped)
