@@ -118,7 +118,7 @@
 
 <div align="center">
 
-```
+```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ exit
 
