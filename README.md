@@ -101,7 +101,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false&layout=compact" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false" alt="GitHub Stats"/> -->
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ogclau?label=followers&style=flat-square&color=00ff9f&labelColor=0d0d1a&logo=github" />
-  <!-- <img src="https://img.shields.io/github/stars/ogclau?label=stars&style=flat-square&color=7c6aff&labelColor=0d0d1a&logo=github" /> -->
+  <img src="https://img.shields.io/github/stars/ogclau?label=stars&style=flat-square&color=7c6aff&labelColor=0d0d1a&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=ogclau&label=profile+views&color=ff6b9d&style=flat-square" />
 </p>
 
