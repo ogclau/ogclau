@@ -110,7 +110,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ogclau?label=followers&style=flat-square&color=00ff9f&labelColor=0d0d1a&logo=github" />
-  <img src="https://img.shields.io/github/stars/ogclau?label=stars&style=flat-square&color=7c6aff&labelColor=0d0d1a&logo=github" />
+  <!-- <img src="https://img.shields.io/github/stars/ogclau?label=stars&style=flat-square&color=7c6aff&labelColor=0d0d1a&logo=github" /> -->
   <img src="https://komarev.com/ghpvc/?username=ogclau&label=profile+views&color=ff6b9d&style=flat-square" />
 </p>
 
