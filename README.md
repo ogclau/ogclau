@@ -2,8 +2,6 @@
 <!--  TRACE INITIATED — claudia@0x_portfolio                  -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-<div align="center">
-
 ```
   ██████╗ ██╗  ██╗ ██████╗██╗      █████╗ ██╗   ██╗██████╗ ██╗ █████╗
  ██╔═████╗╚██╗██╔╝██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██║██╔══██╗
@@ -12,15 +10,47 @@
  ╚██████╔╝██╔╝ ██╗╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝██║██║  ██║
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
 ```
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=security+researcher+in+training...;full-stack+developer;breaking+things+to+build+better+ones;chmod+%2B+x+claudia.sh+%26%26+.%2Fclaudia.sh)](https://git.io/typing-svg)
 
+</div>  
+<!-- <div align="center"> -->
+<!-- <img src="neofetch_avatar_claudia.svg" width="900" /> -->
+<!-- </div> -->
+
+
+
+---
+<div align="center">
+  
+```bash
+┌──(0xClaudia㉿matrix)-[~]
+└─$ module info pdf-engine
+```
+
+</div>
+
+
+```python
+[ OK ] loading projects...
+[ OK ] initializing portfolio...
+[ OK ] exposing endpoints...
+```
+
+
+```bash
+> AVAILABLE MODULES:
+```
+<div align="center">
+  
+[![PDF Engine](https://img.shields.io/badge/_PDF_ENGINE-Professional%2FCyber-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 </div>
 
 ---
 
 <div align="center">
-
+  
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ whoami
@@ -29,7 +59,7 @@
 </div>
 
 ```
-> identity   : Claudia Ortega
+> identity    : Claudia Ortega
 > role        : Security-focused Full-Stack Developer
 > status      : [ACTIVE] — building, breaking & learning
 > location    : /dev/null  (trace wiped)
@@ -37,9 +67,8 @@
 ```
 
 ---
-
 <div align="center">
-
+  
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ cat /etc/skills.conf
@@ -49,11 +78,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py&theme=dark"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py,kali,mysql,wordpress,mongodb&theme=dark" />
+  </a>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py,kali,mysql,wordpress,mongodb&theme=dark"/> -->
 
 </div>
 
-```
+```bash
 [languages]     Python · JavaScript · Java · Bash · HTML · CSS
 [frameworks]    Node.js · Docker
 [tools]         Figma · VSCode · IntelliJ IDEA · PowerShell
@@ -82,19 +117,19 @@
 
 ---
 
-<div align="center">
+
 
 ```bash
 ┌──(0xClaudia㉿matrix)-[~/stats]
 └─$ ./fetch_metrics.sh --user ogclau
 ```
 
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false&layout=compact" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false" alt="GitHub Stats"/> -->
 </p>
 
 <p align="center">
@@ -108,10 +143,10 @@
 </p>
 
 ---
-
+</div>
 <div align="center">
 
-```
+```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ exit
 
