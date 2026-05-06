@@ -10,7 +10,7 @@
  ╚██████╔╝██╔╝ ██╗╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝██║██║  ██║
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
 ```
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=security+researcher+in+training...;full-stack+developer;breaking+things+to+build+better+ones;chmod+%2B+x+claudia.sh+%26%26+.%2Fclaudia.sh)](https://git.io/typing-svg)
 
 <!-- <div align="center"> -->
@@ -109,14 +109,14 @@
 
 ---
 
-<div align="center">
+
 
 ```bash
 ┌──(0xClaudia㉿matrix)-[~/stats]
 └─$ ./fetch_metrics.sh --user ogclau
 ```
 
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false&layout=compact" alt="Top Languages"/>
@@ -135,7 +135,7 @@
 </p>
 
 ---
-
+</div>
 <div align="center">
 
 ```bash
