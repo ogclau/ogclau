@@ -17,33 +17,37 @@
 <!-- <img src="neofetch_avatar_claudia.svg" width="900" /> -->
 <!-- </div> -->
 
-<p align="center">
+
 
 ---
-
+<p align="center">
+  
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ module info pdf-engine
 ```
-
+</p>
+<p align="center">
 
 ```python
 [ OK ] loading projects...
 [ OK ] initializing portfolio...
 [ OK ] exposing endpoints...
 ```
+
+</p>
 > AVAILABLE MODULES:
 
 [![PDF Engine](https://img.shields.io/badge/_PDF_ENGINE-Professional%2FCyber-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 
 ---
 
+<p align="center">
   
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ whoami
 ```
-
 </p>
 
 ```
