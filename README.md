@@ -90,9 +90,10 @@
 ```bash
 [languages]     Python · JavaScript · Java · Bash · HTML · CSS
 [frameworks]    Node.js · Docker
-[tools]         Figma · VSCode · IntelliJ IDEA · PowerShell
-[security]      Linux · Network analysis · OWASP · recon tools
+[tools]         Figma · VSCode · IntelliJ IDEA · PowerShell · WordPress
+[security]      Linux · Kali Linux · Network analysis · OWASP · recon tools
 [design]        Adobe Illustrator · UI/UX prototyping
+[databases]     MySQL · MongoDB
 ```
 
 ---
