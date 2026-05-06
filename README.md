@@ -17,7 +17,7 @@
 <!-- <img src="neofetch_avatar_claudia.svg" width="900" /> -->
 <!-- </div> -->
 
-<div align="center">
+<p align="center">
 
 ---
 
@@ -44,7 +44,7 @@
 └─$ whoami
 ```
 
-</div>
+</p>
 
 ```
 > identity    : Claudia Ortega
@@ -55,16 +55,16 @@
 ```
 
 ---
-<div align="center">
+<p align="center">
 
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ cat /etc/skills.conf
 ```
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -74,7 +74,7 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py,kali,mysql,wordpress,mongodb&theme=dark"/> -->
 
-</div>
+</p>
 
 ```bash
 [languages]     Python · JavaScript · Java · Bash · HTML · CSS
