@@ -46,6 +46,9 @@
 > AVAILABLE MODULES:
 
 [![PDF Engine](https://img.shields.io/badge/PDF_Engine-ONLINE-00ffff?style=for-the-badge&labelColor=0d1117)](https://github.com/ogclau/ReportLabStyleSuite)
+
+[![PDF Engine](https://img.shields.io/badge/>_PDF_ENGINE-INITIALIZED-00ff88?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
+
 ---
 <div align="center">
 
