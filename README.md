@@ -117,12 +117,13 @@
 ---
 
 
-
+<div align="center">
+  
 ```bash
 ┌──(0xClaudia㉿matrix)-[~/stats]
 └─$ ./fetch_metrics.sh --user ogclau
 ```
-
+</div>
 
 
 <p align="center">
@@ -148,7 +149,8 @@
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ exit
-
+```
+```python
 [session terminated]
 [logs encrypted & deleted]
 [no trace found]
