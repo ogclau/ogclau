@@ -25,6 +25,7 @@
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ module info pdf-engine
 ```
+</div>
 
 ```python
 [ OK ] loading projects...
@@ -36,7 +37,8 @@
 [![PDF Engine](https://img.shields.io/badge/_PDF_ENGINE-Professional%2FCyber-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 
 ---
-
+<div align="center">
+  
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ whoami
