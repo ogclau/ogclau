@@ -21,6 +21,21 @@
 
 ---
 
+```bash
+┌──(0xClaudia㉿matrix)-[~]
+└─$ module info pdf-engine
+```
+
+```python
+[ OK ] loading projects...
+[ OK ] initializing portfolio...
+[ OK ] exposing endpoints...
+```
+> AVAILABLE MODULES:
+
+[![PDF Engine](https://img.shields.io/badge/_PDF_ENGINE-Professional%2FCyber-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
+
+---
 
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
@@ -36,17 +51,6 @@
 > location    : /dev/null  (trace wiped)
 > clearance   : student → operator
 ```
-
----
-```python
-[ OK ] loading projects...
-[ OK ] initializing portfolio...
-[ OK ] exposing endpoints...
-```
-> AVAILABLE MODULES:
-
-[![PDF Engine](https://img.shields.io/badge/_PDF_ENGINE-Professional%2FCyber-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
-
 
 ---
 <div align="center">
