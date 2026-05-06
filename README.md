@@ -55,6 +55,8 @@
 
 → [![PDF Engine](https://img.shields.io/badge/PDF_ENGINE-LOADED_%5BOK%5D-00ff88?style=for-the-badge&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 
+[![PDF Engine](https://img.shields.io/badge/MODULE-PDF_ENGINE_ACTIVE-00ffff?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=0d1117)](https://github.com/TU_USUARIO/pdf-engine)
+
 ---
 <div align="center">
 
