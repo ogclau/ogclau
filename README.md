@@ -39,6 +39,16 @@
 
 ---
 
+[ OK ] loading projects...
+[ OK ] initializing portfolio...
+[ OK ] exposing endpoints...
+
+> AVAILABLE MODULES:
+
+→ 📄 [PDF Engine](https://https://github.com/ogclau/ReportLabStyleSuite)
+   └─ Generador de PDFs con estilos Professional + Cyber
+
+---
 <div align="center">
 
 ```bash
