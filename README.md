@@ -39,12 +39,13 @@
 
 ---
 
-```bash
-> load modules
+[ OK ] loading projects...
+[ OK ] initializing portfolio...
+[ OK ] exposing endpoints...
 
-[OK] pdf-engine .......... LOADED
-     → https://https://github.com/ogclau/ReportLabStyleSuite
-```
+> AVAILABLE MODULES:
+
+→ [![PDF Engine](https://img.shields.io/badge/PDF_Engine-ONLINE-00ffff?style=for-the-badge&labelColor=0d1117)](https://github.com/ogclau/ReportLabStyleSuite)
 ---
 <div align="center">
 
