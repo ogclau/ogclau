@@ -28,9 +28,9 @@
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ module info pdf-engine
 ```
+
 </div>
 
-<div align="center">
 
 ```python
 [ OK ] loading projects...
@@ -38,7 +38,6 @@
 [ OK ] exposing endpoints...
 ```
 
-</div>
 
 ```bash
 > AVAILABLE MODULES:
@@ -56,6 +55,7 @@
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ whoami
 ```
+
 </div>
 
 ```
@@ -68,7 +68,7 @@
 
 ---
 <div align="center">
-
+  
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ cat /etc/skills.conf
