@@ -10,10 +10,8 @@
  ╚██████╔╝██╔╝ ██╗╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝██║██║  ██║
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
 ```
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=security+researcher+in+training...;full-stack+developer;breaking+things+to+build+better+ones;chmod+%2B+x+claudia.sh+%26%26+.%2Fclaudia.sh)](https://git.io/typing-svg)
   
-</div>
 <!-- <div align="center"> -->
 <!-- <img src="neofetch_avatar_claudia.svg" width="900" /> -->
 <!-- </div> -->
