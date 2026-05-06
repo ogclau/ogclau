@@ -128,7 +128,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false&layout=compact" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false&layout=compact" alt="Top Languages"/> -->
   <br/>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ogclau&show_icons=true&theme=tokyonight&border_color=00ff9f&title_color=00ff9f&icon_color=7c6aff&bg_color=0d0d1a&hide_border=false" alt="GitHub Stats"/> -->
 </p>
