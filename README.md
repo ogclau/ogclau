@@ -22,14 +22,15 @@
 
 
 ---
-<p align="center">
+<div align="center">
   
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ module info pdf-engine
 ```
-</p>
-<p align="center">
+</div>
+
+<div align="center">
 
 ```python
 [ OK ] loading projects...
@@ -37,20 +38,25 @@
 [ OK ] exposing endpoints...
 ```
 
-</p>
-> AVAILABLE MODULES:
+</div>
 
+```bash
+> AVAILABLE MODULES:
+```
+<div align="center">
+  
 [![PDF Engine](https://img.shields.io/badge/_PDF_ENGINE-Professional%2FCyber-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ whoami
 ```
-</p>
+</div>
 
 ```
 > identity    : Claudia Ortega
@@ -61,16 +67,16 @@
 ```
 
 ---
-<p align="center">
+<div align="center">
 
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ cat /etc/skills.conf
 ```
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,7 +86,7 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=figma,ai,css,html,js,java,linux,nodejs,powershell,vscode,docker,idea,py,kali,mysql,wordpress,mongodb&theme=dark"/> -->
 
-</p>
+</div>
 
 ```bash
 [languages]     Python · JavaScript · Java · Bash · HTML · CSS
