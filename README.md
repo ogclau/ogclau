@@ -27,7 +27,6 @@
 ```bash
 ┌──(0xClaudia㉿matrix)-[~]
 └─$ module info pdf-engine
-```
 
 </div>
 
