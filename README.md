@@ -51,7 +51,7 @@
 
 [![PDF Engine](https://img.shields.io/badge/⚡_PDF_ENGINE-NEON_CORE-ff00ff?style=for-the-badge&logo=ghost&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 
-[![PDF Engine](https://img.shields.io/badge/PDF_ENGINE-Professional_%2F_Cyber-00ffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117)](https://github.com/ogclau/ReportLabStyleSuite)
+[![PDF Engine](https://img.shields.io/badge/PDF_ENGINE-Professional_%2F_Cyber-00ffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ffff&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 
 → [![PDF Engine](https://img.shields.io/badge/PDF_ENGINE-LOADED_%5BOK%5D-00ff88?style=for-the-badge&labelColor=000000)](https://github.com/ogclau/ReportLabStyleSuite)
 
